@@ -13,8 +13,9 @@ IDE: [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Tech Stack 🧠
 
-Frontend: Android Studio or VS Code\
-Backend: 
+Frontend: Android Studio or VS Code using XML, CSS, JavaScript\
+Backend: Java\
+Database: TBH (local SQL server or API)
 
 ## Resources 🧠
 
